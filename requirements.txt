@@ -1,0 +1,3 @@
+opencv_python==4.2.0.32
+numpy==1.13.3
+python social_distance_detection.py --prototxt SSD_MobileNet_prototxt.txt --model SSD_MobileNet.caffemodel --labels class_labels.txt
