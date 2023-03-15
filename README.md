@@ -1,6 +1,6 @@
 # social_distance_detection_using_camera_depth
 
-# Social-Distance-Detection-using-OpenCV
+
 
 The COVID-19 pandemic has caused a lot of distress and suffering for families around the world. Despite recommendations to avoid close contact with others in order to prevent the spread of the virus, some individuals continue to disregard these guidelines. To address this issue, I have developed a project that monitors whether or not people are maintaining social distance. This could assist the government in identifying areas where social distancing is not being practiced and enforcing more stringent measures. Using a webcam, the project captures video and detects people in real-time. If individuals are in close proximity to one another, a red bounding box is displayed around them to indicate that they are not maintaining social distance. 
 <br />
